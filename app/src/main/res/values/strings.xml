@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Motivate Me</string>
+    <string name="textview">TextView</string>
+    <string name="placeholder_message">say hello!</string>
+    <string name="content_description">a simple message icon</string>
+    <string name="hint_text">Enter your name</string>
+    <string name="button_text">Update</string>
+</resources>
